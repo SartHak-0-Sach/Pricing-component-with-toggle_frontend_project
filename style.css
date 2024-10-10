@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+@import 'normalize.css';
+
 html {
     line-height: 1.15;
     /* 1 */
@@ -370,9 +373,6 @@ template {
 [hidden] {
     display: none;
 }
-
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
-@import 'normalize.css';
 
 :root {
     --blue: hsl(237, 63%, 64%);
